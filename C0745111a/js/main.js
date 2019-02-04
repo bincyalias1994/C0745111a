@@ -1,1 +1,5 @@
-﻿// Your code here!
+﻿
+
+    var date = new Date();
+        document.body.innerHTML = "<h1>" + date + "</h1>";
+    
